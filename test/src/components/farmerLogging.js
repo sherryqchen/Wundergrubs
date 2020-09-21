@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 // import * as fs from 'fs';
 
 
-class farmer_logging extends Component {
+class farmerLogging extends Component {
 	constructor(props) {
 		super(props);
         this.choice = ["pick up","delievery"];
@@ -122,4 +122,4 @@ class farmer_logging extends Component {
 	}
 }
 
-export default farmer_logging;
+export default farmerLogging;
