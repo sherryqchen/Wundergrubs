@@ -4,6 +4,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Home from './components/Home';
 import NewTransaction from './components/NewTransaction';
+import farmer_logging from './components/farmer_logging';
 import view_report from './components/view_report';
 import transaction_history from './components/transaction_history';
 import manage_account from './components/manage_account';
